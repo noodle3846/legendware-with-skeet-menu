@@ -1,2 +1,2 @@
 # legendware with skeet menu
- legendware.pw source code with skeet menu found everywhere on github
+ legendware.pw v3 source code with skeet menu found everywhere on github
